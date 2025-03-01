@@ -1,6 +1,4 @@
-resource "azurerm_resource_group" "vm-migrate" {
-  name     = "rg-vm-migrate"
+resource "azurerm_resource_group" "rg-vmmigrate" {
+  name     = "vmmigrate"
   location = "East US"
 }
-
-
