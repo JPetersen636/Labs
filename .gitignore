@@ -1,2 +1,4 @@
 CreateStorageAccount/provider.tf
 terraform.exe
+CreateStorageAccount/.terraform.lock.hcl
+CreateStorageAccount/.terraform/providers/registry.terraform.io/hashicorp/azurerm/4.14.0/windows_amd64/terraform-provider-azurerm_v4.14.0_x5.exe
