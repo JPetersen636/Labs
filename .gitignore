@@ -1,4 +1,5 @@
 terraform.exe
 create-virtualnetwork/.terraform
 create-virtualnetwork/.terraform.lock.hcl
+create-virtualnetwork/provider.tf
 provider.tf
